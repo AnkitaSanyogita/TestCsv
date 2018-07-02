@@ -1,0 +1,181 @@
+PLANT,PLANT NAME,Company,StateOffice,RegionalOffice,TANKAGE,STOCK,TOTAL_STOCK,DAYS_COVER,DAY_BOTTLING,CUMM_BOTTLING,Bottling-Rated capacity(TMTPA)
+1171,LPG BP - Tikri Kalan,IOC,Delhi & Haryana SO,NorthRegion,0,8896,0,0,858,4371,720
+1172,LPG BP- Madanpur Khadar,IOC,Delhi & Haryana SO,NorthRegion,4506,4148,4200,8,767,3559,720
+1173,LPG BP- Karnal,IOC,Delhi & Haryana SO,NorthRegion,4724,2997,2997,6,797,3752,720
+1174,LPG BP- Gurgaon,IOC,Delhi & Haryana SO,NorthRegion,384,364,364,1,521,2807,720
+1271,LPG BP- Jalandhar,IOC,"Punjab, HP and J&K SO",NorthRegion,6246,5357,5357,9,840,4185,515
+1272,LPG BP- Baddi,IOC,"Punjab, HP and J&K SO",NorthRegion,306,212,388,3,125,827,515
+1273,LPG BP -Leh,IOC,"Punjab, HP and J&K SO",NorthRegion,0,434,0,0,9,62,515
+1274,LPG BP- Nabha,IOC,"Punjab, HP and J&K SO",NorthRegion,3956,3179,3179,5,793,4639,515
+1275,LPG BP -Jammu,IOC,"Punjab, HP and J&K SO",NorthRegion,0,1406,228,1,226,1159,515
+1277,LPG BP- Una,IOC,"Punjab, HP and J&K SO",NorthRegion,897,661,1213,7,147,1258,515
+1279,LPG BP-  Bhatinda,IOC,"Punjab, HP and J&K SO",NorthRegion,0,0,0,0,0,0,515
+1280,LPG BP Project- Bhatinda,IOC,"Punjab, HP and J&K SO",NorthRegion,0,0,0,0,0,0,515
+1282,LPG BP-Goindwal Sahib,IOC,"Punjab, HP and J&K SO",NorthRegion,0,0,0,0,0,0,515
+1371,LPG BP-Bikaner,IOC,Rajasthan SO,NorthRegion,965,794,2038,11,254,1303,330
+1372,LPG BP - Ajmer,IOC,Rajasthan SO,NorthRegion,1530,1250,1485,4,435,2477,330
+1373,LPG BP - Sawai Madhopur,IOC,Rajasthan SO,NorthRegion,0,0,0,0,0,0,330
+1374,LPG BP - Jaipur,IOC,Rajasthan SO,NorthRegion,42072,3349,3417,7,700,3258,330
+1375,LPG BP - Jhunjhunu,IOC,Rajasthan SO,NorthRegion,1117,693,1248,11,141,816,330
+1471,LPG BP- Trisundi,IOC,UP SO,NorthRegion,84,56,265,5,52,369,671
+1473,LPG BP-Allahabad,IOC,UP SO,NorthRegion,1859,1493,3473,8,482,3097,671
+1474,LPG BP -Kanpur,IOC,UP SO,NorthRegion,6322,3930,8809,11,913,5521,671
+1482,LPG BP -Varanasi,IOC,UP SO,NorthRegion,2635,2278,6382,10,737,4636,671
+1486,LPG BP AMAUSI,IOC,UP SO,NorthRegion,2392,1738,5771,10,735,4161,671
+1572,LPG BP -Mathura,IOC,UPSO - II,NorthRegion,3409,538,538,1,450,2685,810
+1575,LPG BP -Farrukhabad,IOC,UPSO - II,NorthRegion,817,846,1439,8,219,1229,810
+1576,LPG BP -Aligarh,IOC,UPSO - II,NorthRegion,612,368,993,6,209,1080,810
+1578,LPG BP -Haldwani,IOC,UPSO - II,NorthRegion,324,199,684,4,228,1357,810
+1579,LPG BP -Etawah,IOC,UPSO - II,NorthRegion,612,475,1106,8,131,939,810
+1580,LPG BP -Haridwar,IOC,UPSO - II,NorthRegion,298,250,707,4,199,1203,810
+1583,LPG BP -Pattikalan,IOC,UPSO - II,NorthRegion,1859,1478,4785,15,362,2278,810
+1584,LPG BP -Shahjahanpur,IOC,UPSO - II,NorthRegion,2764,1570,2270,9,203,1743,810
+1587,LPG BP -Lakhimpur Kheri,IOC,UPSO - II,NorthRegion,1574,909,1467,11,203,898,810
+1588,LPG BP -Loni,IOC,UPSO - II,NorthRegion,7780,5600,5617,6,1288,6390,810
+1589,LPG BP - Sitargunj,IOC,UPSO - II,NorthRegion,0,0,0,0,0,0,810
+2170,FREE FOR FUTURE USE,IOC,West Bengal SO,EastRegion,0,0,0,0,0,0,682
+2171,LPG BP -Durgapur,IOC,West Bengal SO,EastRegion,2636,1252,2904,5,922,4172,682
+2172,LPG BP -Raninagar,IOC,West Bengal SO,EastRegion,1865,566,2825,8,467,2483,682
+2173,LPG BP -Kalyani,IOC,West Bengal SO,EastRegion,2380,1092,2702,5,852,4087,682
+2174,LPG BP -RANGPO,IOC,West Bengal SO,EastRegion,307,188,239,6,60,261,682
+2175,LPG BP -Port Blair,IOC,West Bengal SO,EastRegion,774,233,233,8,38,194,682
+2177,LPG BP -Malda,IOC,West Bengal SO,EastRegion,1108,194,741,4,239,1325,682
+2178,LPG BP - Kharagpur,IOC,West Bengal SO,EastRegion,0,0,0,0,0,0,682
+2180,LPG BP -Budge Budge,IOC,West Bengal SO,EastRegion,1574,616,1248,5,292,1746,682
+2271,LPG BP -Balasore,IOC,Orissa State Office,EastRegion,1365,813,813,4,374,1591,90
+2272,ILPG BP -JHARSUGUDA,IOC,Orissa State Office,EastRegion,1118,438,1015,5,281,1395,90
+2274,IOC LPG Mkt Terminal-Paradeep,IOC,Orissa State Office,EastRegion,1794,1359,1359,0,0,0,90
+2277,LPG BP - Khorda,IOC,Orissa State Office,EastRegion,0,0,0,0,0,0,90
+2371,LPG BP -PATNA,IOC,Bihar SO,EastRegion,3263,2823,4326,8,570,3857,540
+2372,LPG BP -Jamshedpur,IOC,Bihar SO,EastRegion,2498,1045,1766,5,440,2430,540
+2373,LPG BP -Bokaro,IOC,Bihar SO,EastRegion,1864,973,2298,5,533,3118,540
+2375,LPG BP -Muzaffarpur,IOC,Bihar SO,EastRegion,1791,473,1782,3,462,3725,540
+2377,LPG BP -Banka,IOC,Bihar SO,EastRegion,0,0,0,0,0,0,540
+2477,LPG BP -Bishalgarh,IOC,North East Integrated State Of,EastRegion,0,0,0,0,0,0,540
+2478,LPG BP -Sarpara,IOC,North East Integrated State Of,EastRegion,0,0,0,0,0,0,540
+3171,LPG BP -Gandhar,IOC,Gujarat SO,WestRegion,1700,1713,1748,16,140,771,510
+3172,LPG BP -Ahmedabad,IOC,Gujarat SO,WestRegion,3941,2883,3799,10,554,2785,510
+3173,LPG BP -Bhavnagar,IOC,Gujarat SO,WestRegion,1861,1413,1589,8,229,1421,510
+3174,LPG BP -Hazira,IOC,Gujarat SO,WestRegion,6701,3300,3300,23,191,1010,510
+3175,LPG BP -Rajkot,IOC,Gujarat SO,WestRegion,436,327,939,3,335,2481,510
+3176,LPG BP -Dumad,IOC,Gujarat SO,WestRegion,8124,2755,4767,17,333,1987,510
+3178,Kandla LPG Import Terminal,IOC,Gujarat SO,WestRegion,25680,14255,14255,0,0,0,510
+3186,OMC(BPC)LPG Hosp.Locn-Hazira,IOC,Gujarat SO,WestRegion,0,0,0,0,0,0,510
+3187,OMC(HPC)LPG Hosp.Locn-Hazira,IOC,Gujarat SO,WestRegion,0,0,0,0,0,0,510
+3271,LPG BP -Manmad,IOC,Maharashtra State Office,WestRegion,1809,1107,1696,9,218,1341,180
+3272,LPG BP -DHANAJ,IOC,Maharashtra State Office,WestRegion,1864,1003,1822,6,339,2006,180
+3273,LPG BP -CHAKAN(PUNE),IOC,Maharashtra State Office,WestRegion,1824,772,1116,4,342,2094,180
+3279,OMC-HPC-LPG Hosp Locn-Khapri,IOC,Maharashtra State Office,WestRegion,0,164,217,8,0,181,180
+3286,LPG BP -Manmad LOGICAL,IOC,Maharashtra State Office,WestRegion,0,0,0,0,0,0,180
+32B1,LPG BP-Nagpur,IOC,Maharashtra State Office,WestRegion,0,0,0,0,0,0,180
+3371,LPG BP -Bhopal,IOC,MP SO,WestRegion,8232,5989,8518,19,543,3112,480
+3372,LPG BP -Ujjain,IOC,MP SO,WestRegion,1857,1241,3486,9,507,2832,480
+3379,LPG BP -Guna,IOC,MP SO,WestRegion,894,594,594,2,542,2743,480
+3383,LPG BP -Raipur,IOC,MP SO,WestRegion,1779,1412,2808,8,472,2555,480
+3385,LPG BP-Jabalpur,IOC,MP SO,WestRegion,0,0,0,0,0,0,480
+3386,LPG BP-Korba,IOC,MP SO,WestRegion,0,0,0,0,0,0,480
+3387,LPG BP-Gwalior,IOC,MP SO,WestRegion,0,0,0,0,0,0,480
+4171,LPG BP -Ennore,IOC,Tamil Nadu SO,WestRegion,918,664,1005,2,678,3401,960
+4172,LPG BP -Salem,IOC,Tamil Nadu SO,WestRegion,0,0,0,0,0,0,960
+4174,LPG BP -Pondichery,IOC,Tamil Nadu SO,WestRegion,300,232,676,8,115,564,960
+4175,LPG BP -Madurai,IOC,Tamil Nadu SO,WestRegion,961,1003,2090,9,298,1605,960
+4176,LPG BP -MAYILADUTHURAI,IOC,Tamil Nadu SO,WestRegion,99,62,204,7,47,211,960
+4177,"LPG BP -,ERODE",IOC,Tamil Nadu SO,WestRegion,1861,1640,3115,8,527,2643,960
+4179,LPG BP -Coimbatore,IOC,Tamil Nadu SO,WestRegion,1791,1155,3075,9,482,2273,960
+4181,LPG BP -Trichy,IOC,Tamil Nadu SO,WestRegion,1071,844,2550,7,529,2650,960
+4183,LPG BP -Chengelpet,IOC,Tamil Nadu SO,WestRegion,1764,738,2355,7,495,2456,960
+4184,LPG BP -MANNARGUDI,IOC,Tamil Nadu SO,WestRegion,108,82,224,8,41,203,960
+4187,LPG BP -ILAYANGUDI,IOC,Tamil Nadu SO,WestRegion,453,378,1140,9,176,868,960
+4188,LPG BP -Tirunelveli,IOC,Tamil Nadu SO,WestRegion,0,0,0,0,0,0,960
+4194,SHV Tuticorin,IOC,Tamil Nadu SO,WestRegion,0,0,0,0,0,0,960
+4271,LPG BP -Quilon,IOC,Kerala SO,WestRegion,3138,2413,2787,9,403,2272,420
+4272,LPG BP -Cochin,IOC,Kerala SO,WestRegion,855,3407,3407,8,526,3052,420
+4273,LPG BP -Calicut,IOC,Kerala SO,WestRegion,2715,2332,2865,9,415,2141,420
+4280,"IOC LPG Import Terminal, Kochi",IOC,Kerala SO,WestRegion,0,0,0,0,0,0,420
+4372,LPG BP -Belgaum,IOC,Karnataka SO,WestRegion,3004,2497,3081,11,462,2001,480
+4373,LPG BP -Devengonthi,BPC,Karnataka SO,WestRegion,6125,3135,4975,8,819,4324,480
+4380,LPG BP -Shimoga,BPC,Karnataka SO,WestRegion,1797,1406,2337,7,516,2407,480
+4386,TOTAL OIL INDIA PVT LTD,BPC,Karnataka SO,WestRegion,0,36,36,0,0,0,480
+4387,LPG BP - MYSORE,BPC,Karnataka SO,WestRegion,599,380,1024,4,234,1617,480
+4471,LPG BP -CHERLAPALLY,BPC,Telangana & Andhra Pradesh SO,WestRegion,2166,2165,2694,5,649,3579,600
+4472,LPG BP -CUDDAPAH,BPC,Telangana & Andhra Pradesh SO,WestRegion,1846,247,2324,7,428,2374,600
+4473,LPG BP -KONDAPALLI,BPC,Telangana & Andhra Pradesh SO,WestRegion,1362,1052,1194,3,510,2515,600
+4474,LPG BP -Thimmapur,BPC,Telangana & Andhra Pradesh SO,WestRegion,1809,1536,3229,10,526,2170,600
+4475,LPG BP -VIZAG,BPC,Telangana & Andhra Pradesh SO,WestRegion,1797,1409,1975,7,452,2030,600
+4490,Bottled Gas Company,BPC,Telangana & Andhra Pradesh SO,WestRegion,0,0,0,0,0,0,600
+4491,Keerthi Petrochem Pvt.Ltd,BPC,Telangana & Andhra Pradesh SO,WestRegion,0,0,0,0,0,0,600
+5701,GAS POINT PETROLEUM (I) LTD,BPC,Telangana & Andhra Pradesh SO,WestRegion,0,0,0,0,0,0,600
+7B01,LPG BP -Bishalgarh,BPC,IndianOil AOD,EastRegion,81,31,598,9,104,471,437
+7B02,LPG BP -Sarpara,BPC,IndianOil AOD,EastRegion,963,240,2191,12,270,1233,437
+7B03,LPG BP-North Guwahati,BPC,IndianOil AOD,EastRegion,1318,405,3983,11,427,2462,437
+7B04,LPG BP--Silchar  BP,BPC,IndianOil AOD,EastRegion,1735,1465,1778,11,116,1143,437
+7B05,LPG BP -GOPANARI,BPC,IndianOil AOD,EastRegion,1793,239,1101,4,393,1889,437
+7B06,LPG BP-DIMAPUR BP,BPC,IndianOil AOD,EastRegion,401,140,209,8,42,185,437
+7B07,LPG BP - KIMIN,BPC,IndianOil AOD,EastRegion,99,43,145,5,40,186,437
+7B08,LPG BP - SEKMAI,BPC,IndianOil AOD,EastRegion,0,139,230,2,118,686,437
+7B09,"LPG BP, Mualkhang",BPC,IndianOil AOD,EastRegion,99,27,159,4,56,255,437
+7B12,LPG BP-LAKWA DESPATCH UNIT,BPC,IndianOil AOD,EastRegion,0,0,0,0,0,0,437
+7B14,LPG BP -Bodhjungnagar,BPC,IndianOil AOD,EastRegion,0,0,0,0,0,0,437
+7B15,LPG BP-Umiam,BPC,IndianOil AOD,EastRegion,0,0,0,0,0,0,437
+9666,LPG BP-,BPC,Regional Office - Northern Reg,NorthRegion,0,0,0,0,0,0,437
+9671,LPG BP-North Guwahati,BPC,AOD (Marketing) HQ,NorthRegion,0,0,0,0,0,0,437
+9672,LPG BP-Silchar,BPC,AOD (Marketing) HQ,NorthRegion,0,0,0,0,0,0,437
+9673,LPG BP-GOPANARI BP,BPC,AOD (Marketing) HQ,NorthRegion,0,0,0,0,0,0,437
+9676,LPG BP-DIMAPUR BP,BPC,AOD (Marketing) HQ,NorthRegion,0,0,0,0,0,0,437
+9677,LPG BP- KIMIN,BPC,AOD (Marketing) HQ,NorthRegion,0,0,0,0,0,0,437
+9678,LPG BP- - Sekmai,BPC,AOD (Marketing) HQ,NorthRegion,0,0,0,0,0,0,437
+9679,LPG BP- Mualkhang BP,BPC,AOD (Marketing) HQ,NorthRegion,0,0,0,0,0,0,437
+9681,LPG BP-DIGBOI DESPATCH UNIT,BPC,Regional Office - Northern Reg,NorthRegion,0,0,0,0,0,0,437
+L121,LPG Automation JAMMU -H,BPC,"Punjab, HP and J&K SO",NorthRegion,0,0,0,0,0,0,515
+L122,LPG Automation JAMMU-H (FF),BPC,"Punjab, HP and J&K SO",NorthRegion,0,0,0,0,0,0,515
+L123,Automation GGSR-BHATINDA,BPC,"Punjab, HP and J&K SO",NorthRegion,0,0,0,0,0,0,515
+L124,Automation LALRU DEPOT,BPC,"Punjab, HP and J&K SO",NorthRegion,0,0,0,0,0,0,515
+L131,LPG Automation - Ajmer-B,BPC,Rajasthan SO,NorthRegion,0,0,0,0,0,0,330
+L132,LPG Automation - JAIPUR B,BPC,Rajasthan SO,NorthRegion,0,0,0,0,0,0,330
+L133,LPG Automation - BIKANER-B,BPC,Rajasthan SO,NorthRegion,0,0,0,0,0,0,330
+L134,LPG Automation - AJMER-H,HPC,Rajasthan SO,NorthRegion,0,0,0,0,0,0,330
+L135,LPG Automation - JAIPUR - H,HPC,Rajasthan SO,NorthRegion,0,0,0,0,0,0,330
+L136,Automation BAGRU TOP,HPC,Rajasthan SO,NorthRegion,0,0,0,0,0,0,330
+L137,Automation SARADHANA TOP,HPC,Rajasthan SO,NorthRegion,0,0,0,0,0,0,330
+L141,LPG Automation -LUCKNOW-B,HPC,UP SO,NorthRegion,0,0,0,0,0,0,671
+L151,LPG Automation -LONI  B,HPC,UPSO - II,NorthRegion,0,0,0,0,0,0,810
+L211,LPG Automation - ULUBERIA-II,HPC,West Bengal SO,EastRegion,0,0,0,0,0,0,682
+L212,LPG Automation - DURGAPUR-B,HPC,West Bengal SO,EastRegion,0,0,0,0,0,0,682
+L231,LPG Automation - PATNA-B,HPC,Bihar SO,EastRegion,0,0,0,0,0,0,540
+L232,LPG Automation - PATNA-H,HPC,Bihar SO,EastRegion,0,0,0,0,0,0,540
+L233,Automation - BIHTA,HPC,Bihar SO,EastRegion,0,0,0,0,0,0,540
+L321,LPG Automation - NASIK B,HPC,Maharashtra State Office,WestRegion,0,0,0,0,0,0,180
+L322,LPG Automation - NASIK-H,HPC,Maharashtra State Office,WestRegion,0,0,0,0,0,0,180
+L331,LPG Automation -JABALPUR,HPC,MP SO,WestRegion,0,0,0,0,0,0,480
+L332,LPG Automation-JABALPUR - I,HPC,MP SO,WestRegion,0,0,0,0,0,0,480
+L333,LPG Automation - Mangalia,HPC,MP SO,WestRegion,0,0,0,0,0,0,480
+L336,LPG Automation - Raipur BPC,HPC,MP SO,WestRegion,0,0,0,0,0,0,480
+L415,LPG Automation -MADURAI-H,HPC,Tamil Nadu SO,WestRegion,0,0,0,0,0,0,960
+L421,LPG Automation - BANGALORE-H,HPC,Kerala SO,WestRegion,0,0,0,0,0,0,420
+L440,LPG Automation - ENNORE-II,HPC,Tamil Nadu SO,WestRegion,0,0,0,0,0,0,960
+L441,LPG Automation - COIMBATORE-II,HPC,Tamil Nadu SO,WestRegion,0,0,0,0,0,0,960
+1196,OMC (BPC)LPG Hosp.Locn-Hissar,HPC,Tamil Nadu SO,WestRegion,0,0,0,0,0,0,960
+1198,OMC (HPC)LPG Hosp.Locn-Asaudha,HPC,Delhi & Haryana SO,NorthRegion,0,0,0,0,0,0,720
+1295,OMC(BPC)LPG Hosp Locn-Bathinda,HPC,Delhi & Haryana SO,NorthRegion,0,0,0,0,0,0,720
+1296,OMC-BPC-LPG Hosp Locn-Lalru,HPC,Delhi & Haryana SO,NorthRegion,0,0,0,0,0,0,720
+1390,OMC (HPC)LPG Hosp.Locn-Jodhpur,HPC,Delhi & Haryana SO,NorthRegion,0,0,0,0,0,0,720
+1391,OMC-BPC-LPG Hosp Locn-Udaipur,HPC,Delhi & Haryana SO,NorthRegion,0,0,35,2,18,144,720
+1392,OMC-HPC-LPG Hosp Locn-Kota,HPC,Delhi & Haryana SO,NorthRegion,0,0,0,0,0,0,720
+1493,OMC-HPC-LPG Hosp Locn- Gorakhp,HPC,Delhi & Haryana SO,NorthRegion,0,0,86,7,16,86,720
+1592,OMC-BPC-LPG Hosp Locn-Roorkee,HPC,UPSO - II,NorthRegion,0,0,0,0,0,0,810
+1599,OMC(GAIL) LPG Hosp.Locn- PATA,HPC,UPSO - II,NorthRegion,0,0,0,0,0,0,810
+2181,"IOC CELL, PETRONAS",HPC,West Bengal SO,EastRegion,0,0,0,0,0,19,682
+2374,LPG BP -Barauni,HPC,Bihar SO,EastRegion,0,0,0,0,499,3597,540
+2472,LPG BP -BRPL   LG,HPC,North East Integrated State Of,EastRegion,0,0,0,0,0,0,540
+2474,LPG BP-DULIAJAN DU (Logical ),HPC,North East Integrated State Of,EastRegion,0,0,0,0,0,0,540
+3285,OMC (BPC)LPG Hosp.Loc-BUTIBURI,HPC,North East Integrated State Of,EastRegion,0,0,0,0,0,0,540
+3377,OMC-BPC-LPG Hosp Locn-Bhitoni,HPC,North East Integrated State Of,EastRegion,0,0,0,0,65,301,540
+3382,OMC(HPC)LPG Hos.Loc-Mandjr Hsd,HPC,North East Integrated State Of,EastRegion,0,0,0,0,0,0,540
+3394,"CCPL, Jabalpur",HPC,North East Integrated State Of,EastRegion,0,0,0,0,0,0,540
+4121,CRC - CPCL INSTALLATION,HPC,Tamil Nadu SO,WestRegion,0,0,0,0,0,0,960
+4276,OMC (HPC)LPG Hosp.Locn-Palghat,HPC,Kerala SO,WestRegion,0,0,0,0,0,0,420
+4375,OMC-HPC-LPG Hosp Locn-Mangalor,HPC,Karnataka SO,WestRegion,0,0,0,0,20,80,480
+4376,Mysore LPG Cood Pt (HPCL),HPC,Karnataka SO,WestRegion,0,0,0,0,0,0,480
+4377,OMC-BPC-LPG Hosp Locn-Mangalor,HPC,Karnataka SO,WestRegion,0,0,0,0,0,104,480
+4483,OMC(HPC)LPG Hos.Loc-Rajamundry,HPC,Telangana & Andhra Pradesh SO,WestRegion,0,0,0,0,0,0,600
+6913,"M/s ABR Petro Products Ltd,",HPC,Telangana & Andhra Pradesh SO,WestRegion,0,0,0,0,0,0,600
